@@ -11,8 +11,8 @@ pip install cvxpy
 pip install mosek
 ```
 
- - Note that you will need the MOSEK license. You can request a free license if you are student or faculty (https://docs.mosek.com/9.2/licensing/index.html). For more license issue, please check the instruction [here](https://docs.mosek.com/9.2/licensing/index.html).
- - You could also use other installed solver in CVXPY, however the results would be quite different. We found that MOSEK solver is stable numerically and runs faster than other packages. 
+ - Note that you will need the MOSEK license. You can request a free [academic license](https://www.mosek.com/products/academic-licenses/) if you are a student or faculty. For license issues, please check the instruction [here](https://docs.mosek.com/9.2/licensing/index.html).
+ - You could also use other installed solvers in CVXPY, however the results would be quite different. We found that MOSEK solver is stable numerically and runs faster than other packages. 
 
 
 ## Citation
